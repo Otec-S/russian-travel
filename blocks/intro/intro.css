@@ -5,3 +5,27 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    /* font-size: 10vw;
+    line-height: 1.1; */
+    padding-left: 24px;
+    /* margin: auto; */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: 93.75%;
+    /* margin: auto; */
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .intro {
+    padding-left: 16px;
+    width: 90%;
+    /* margin: auto; */
+  }
+}

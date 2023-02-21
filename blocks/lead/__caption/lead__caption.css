@@ -2,7 +2,7 @@
   width: 158px;
   min-height: 14px;
   border: 1px solid white;
-  margin: 8px 0 0;
+  margin-top: 8px;
 
   font-family: 'Inter';
   font-style: normal;
@@ -11,4 +11,16 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
+}
+
+@media screen and (max-width: 1000px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
 }
