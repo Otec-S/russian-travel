@@ -4,9 +4,11 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 16px;
+  list-style: none;
+  padding: 0;
 }
 
-@media screen and (max-width: 1245px) {
+@media screen and (max-width: 1250px) {
   .photo-grid {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
