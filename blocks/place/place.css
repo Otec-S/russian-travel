@@ -4,7 +4,7 @@
   grid-template-rows: 152px 1fr;
   grid-template-areas:
   "title website"
-  "image paragraph";
+  "image text";
   border: 1px solid white;
   gap: 48px 40px;
 
