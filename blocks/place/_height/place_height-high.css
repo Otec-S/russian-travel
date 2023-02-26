@@ -1,0 +1,15 @@
+.place_height-high {
+  grid-template-rows: 152px 1fr;
+}
+
+@media screen and (max-width: 1023px) {
+  .place_height-high {
+    grid-template-rows: 152px 1fr;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place_height-high {
+    grid-template-rows: 35px;
+  }
+}

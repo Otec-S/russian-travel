@@ -1,0 +1,15 @@
+.place__title_height-low {
+  height: 76px;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__title_height-low {
+    height: 46px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__title_height-low {
+    height: 35px;
+  }
+}

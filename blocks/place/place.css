@@ -1,7 +1,6 @@
 .place {
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: 152px 1fr;
   grid-template-areas:
     "title website"
     "image text";
@@ -20,7 +19,7 @@
   .place {
     gap: 48px 28px;
     grid-template-columns: 340px 1fr;
-    grid-template-rows: 92px 1fr;
+    /* grid-template-rows: 152px 1fr; */
     width: 720px;
   }
 }
@@ -28,7 +27,6 @@
 @media screen and (max-width: 800px) {
   .place {
     grid-template-columns: 320px;
-    grid-template-rows: 35px;
     grid-template-areas:
     "title"
     "website"
