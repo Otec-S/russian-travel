@@ -1,3 +1,9 @@
 .cover__text {
   margin: auto;
 }
+
+@media screen and (max-width: 800px) {
+  .cover__text {
+    margin: 0;
+  }
+}
