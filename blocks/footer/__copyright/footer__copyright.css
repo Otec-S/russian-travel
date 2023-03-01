@@ -12,3 +12,9 @@
     padding-right: 24px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .footer__copyright {
+    padding: 48px 0 24px 16px;
+  }
+}
