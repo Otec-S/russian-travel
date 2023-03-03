@@ -1,2 +1,9 @@
 .intro__position {
-margin-top: 82px;}
+  margin-top: 82px;
+}
+
+@media screen and (max-width: 1279px) {
+  .intro__position {
+    margin: 92px 3px;
+  }
+}
