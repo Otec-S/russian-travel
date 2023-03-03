@@ -4,4 +4,5 @@
   background-color: rgba(0, 0, 0, 1);
   padding: 28px 0 134px;
   color: #FFFFFF;
+  text-rendering: optimizeLegibility;
 }
