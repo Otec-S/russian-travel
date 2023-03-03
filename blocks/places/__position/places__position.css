@@ -4,3 +4,10 @@
   flex-direction: column;
   gap: 80px;
 }
+
+@media screen and (max-width: 1023px) {
+  .places__position {
+    margin: 67px auto;
+    gap: 75px;
+  }
+}
