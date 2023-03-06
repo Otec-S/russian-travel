@@ -6,8 +6,6 @@
 
 Проект написан в HTML и CSS (с подключением файла normalize.css), сторонние библиотеки не применялись.
 
-**Сайт**
-
-Посмотреть на сайт можно [тут](https://otec-s.github.io/russian-travel/)
+Посмотреть на сайт можно [тут.](https://otec-s.github.io/russian-travel/)
 
 Удачного чтения!
