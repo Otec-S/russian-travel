@@ -5,6 +5,12 @@
   gap: 80px;
 }
 
+@media screen and (max-width: 1279px) {
+  .places__position {
+    margin: 70px auto;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .places__position {
     margin: 67px auto;
