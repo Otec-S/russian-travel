@@ -1,4 +1,4 @@
-.places__position {
+.places_position {
   margin: 78px auto;
   display: flex;
   flex-direction: column;
@@ -6,20 +6,20 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .places__position {
+  .places_position {
     margin: 70px auto;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .places__position {
+  .places_position {
     margin: 67px auto;
     gap: 75px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .places__position {
+  .places_position {
     margin: 62px auto;
     gap: 48px;
   }
