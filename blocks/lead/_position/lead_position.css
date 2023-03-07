@@ -1,16 +1,16 @@
-.lead__position {
+.lead_position {
   margin: 56px auto 92px;
 }
 
 
 @media screen and (max-width: 1279px) {
-  .lead__position {
+  .lead_position {
     margin: 45px auto 0;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .lead__position {
+  .lead_position {
     margin: 48px auto 0;
   }
 }
