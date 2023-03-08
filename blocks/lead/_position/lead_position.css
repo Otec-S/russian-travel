@@ -5,13 +5,21 @@
 
 @media screen and (max-width: 1279px) {
   .lead_position {
-    margin: 45px auto 0;
+    margin-top: 45px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead_position {
+    margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead_position {
-    margin: 48px auto 0;
+    margin-top: 48px;
+    margin-bottom: 64px;
+
   }
 }
 

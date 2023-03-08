@@ -1,14 +1,8 @@
 .intro {
-  width: 689px;
-  min-height: 429px;
+  width: 100%;
+  max-width: 689px;
   display: flex;
   flex-direction: column;
-}
-
-@media screen and (max-width: 1024px) {
-  .intro {
-    padding-left: 27px;
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -19,7 +13,6 @@
 
 @media screen and (max-width: 680px) {
   .intro {
-    padding-left: 16px;
     width: 90%;
   }
 }
