@@ -5,6 +5,7 @@
   max-width: 78px;
   justify-content: space-between;
   padding-right: 48px;
+  padding-bottom: 7px;
 }
 
 @media screen and (max-width: 768px) {
@@ -15,8 +16,7 @@
 
 @media screen and (max-width: 350px) {
   .header__lang-links {
-    padding-right: 8px;
-    max-width: 70px;
+    padding-right: 16px;
+    max-width: 62px;
   }
 }
-
