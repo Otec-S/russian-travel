@@ -12,6 +12,7 @@
 @media screen and (max-width: 1023px) {
   .photo-grid_position {
     max-width: 720px;
+    margin-bottom: 88px;
   }
 }
 

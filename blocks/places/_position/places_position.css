@@ -1,26 +1,15 @@
 .places_position {
-  margin: 78px auto;
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
-}
-
-@media screen and (max-width: 1279px) {
-  .places_position {
-    margin: 70px auto;
-  }
+  margin: auto;
 }
 
 @media screen and (max-width: 1023px) {
   .places_position {
-    margin: 67px auto;
     gap: 75px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places_position {
-    margin: 62px auto;
     gap: 48px;
   }
 }
