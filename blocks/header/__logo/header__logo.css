@@ -2,6 +2,7 @@
   width: 176px;
   height: 52px;
   padding-left: 48px;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 768px) {
