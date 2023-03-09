@@ -1,13 +1,13 @@
 .root {
   display: flex;
   flex-direction: column;
-  background-color: rgba(0, 0, 0, 1);
-  padding: 28px 0 134px;
+  background-color: #2A2C2F;
+  padding-top: 28px;
   color: #FFFFFF;
 }
 
 @media screen and (max-width: 767px) {
   .root {
-    padding: 16px 0 134px;
+    padding-top: 16px;
   }
 }
