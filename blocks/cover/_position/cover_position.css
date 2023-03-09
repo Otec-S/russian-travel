@@ -4,12 +4,12 @@
 
 @media screen and (max-width: 1023px) {
   .cover_position {
-    margin: 90px auto;
+    margin: 90px auto 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover_position {
-    margin: 66px auto;
+    margin: 66px auto 64px;
   }
 }

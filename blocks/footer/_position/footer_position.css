@@ -1,0 +1,22 @@
+.footer_position {
+  /* margin: 75px auto 24px; */
+  margin-bottom: 24px;
+}
+
+/* @media screen and (max-width: 1279px) {
+  .footer {
+    margin: 84px auto 24px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    margin: 66px auto 24px;
+  }
+}*/
+
+@media screen and (max-width: 767px) {
+  .footer {
+    margin-left: 16px;
+  }
+}
