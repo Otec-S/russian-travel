@@ -1,15 +1,15 @@
-.places_position {
+.main__places {
   margin: auto;
 }
 
 @media screen and (max-width: 1023px) {
-  .places_position {
+  .main__places {
     gap: 75px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .places_position {
+  .main__places {
     gap: 48px;
   }
 }
