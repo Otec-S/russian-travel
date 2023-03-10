@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 1023px) {
   .place {
-    gap: 45px 28px;
+    gap: 48px 28px;
     grid-template-columns: 340px 1fr;
     width: 720px;
   }
@@ -35,11 +35,11 @@
     gap: 32px;
   }
 
-  .place:first-child {
+  /* .place:first-child {
     margin-bottom: 25px;
   }
 
   .place:nth-child(4) {
     margin-bottom: 25px;
-  }
+  } */
 }

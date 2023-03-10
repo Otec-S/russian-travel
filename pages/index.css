@@ -2,7 +2,6 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
 
-@import url(../blocks/main/main.css);
 @import url(../blocks/main/__lead/main__lead.css);
 @import url(../blocks/main/__intro/main__intro.css);
 @import url(../blocks/main/__photo-grid/main__photo-grid.css);
