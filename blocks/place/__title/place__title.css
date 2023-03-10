@@ -13,15 +13,9 @@
   .place__title {
     font-size: 42px;
     line-height: 1.1;
-    width: 97%;
+    /* width: 97%; */
   }
 }
-
-  /* .place__title:first-child {
-      padding-right: 10px;
-    }
-  } */
-
 
   @media screen and (max-width: 767px) {
     .place__title {
