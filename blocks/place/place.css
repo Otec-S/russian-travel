@@ -27,11 +27,19 @@
   .place {
     grid-template-columns: 320px;
     grid-template-areas:
-    "title"
-    "website"
-    "image"
-    "text";
+      "title"
+      "website"
+      "image"
+      "text";
     width: 320px;
     gap: 32px;
+  }
+
+  .place:first-child {
+    margin-bottom: 25px;
+  }
+
+  .place:nth-child(4) {
+    margin-bottom: 25px;
   }
 }
