@@ -23,7 +23,8 @@
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_font-thin/intro_font-thin.css);
+@import url(../blocks/intro/__item/intro__item.css);
+@import url(../blocks/intro/__item-thin/intro__item-thin.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
