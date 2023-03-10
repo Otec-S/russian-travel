@@ -8,6 +8,7 @@
   margin: 0;
 }
 
+
 @media screen and (max-width: 1023px) {
   .place__title {
     font-size: 42px;
@@ -16,13 +17,16 @@
   }
 }
 
-@media screen and (max-width: 767px) {
-  .place__title {
-    font-family: 'Inter', 'Arial', sans-serif;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 32px;
-    line-height: 1.09;
-    padding-left: 16px;
+  /* .place__title:first-child {
+      padding-right: 10px;
+    }
+  } */
+
+
+  @media screen and (max-width: 767px) {
+    .place__title {
+      font-size: 32px;
+      line-height: 1.09;
+      padding-left: 16px;
+    }
   }
-}

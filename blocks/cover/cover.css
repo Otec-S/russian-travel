@@ -42,9 +42,16 @@
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1060px) {
   .cover {
     width: 100%;
+    /* min-height: 640px; */
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    /* width: 100%; */
     /* width: 768px;*/
     min-height: 480px;
   }
