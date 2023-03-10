@@ -1,19 +1,11 @@
 .footer__links {
-  /* padding-left: 48px; */
   display: flex;
   gap: 18px;
 }
-/*
-@media screen and (max-width: 1023px) {
-  .footer__links {
-padding-left: 24px;
-  }
-} */
 
 @media screen and (max-width: 767px) {
 	.footer__links {
 		flex-direction: column;
     gap: 32px;
-    /* padding-left: 16px; */
 	}
 }

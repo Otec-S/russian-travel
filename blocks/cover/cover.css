@@ -44,17 +44,16 @@
 
 @media screen and (max-width: 1023px) {
   .cover {
-    width: 768px;
+    width: 100%;
+    /* width: 768px;*/
     min-height: 480px;
-    /* margin: 24px auto; */
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover {
-    width: 320px;
+    /* width: 320px;*/
     min-height: 200px;
-    /* margin-top: 4px; */
     gap: 16px;
   }
 }
