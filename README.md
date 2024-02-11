@@ -1,11 +1,11 @@
-# Проект: Путешествие по России.
+# Project: Traveling in Russia
 
-Проект нужен, чтобы туристы заинтересовались отдыхом в России. Сайт показывает интересные места для посещения, несмотря на то, что про них многие слышали, но никогда там не были.
+The project aims to attract tourists to explore Russia as a vacation destination. The website showcases interesting places to visit, even those that many have heard of but never had the opportunity to experience firsthand.
 
-Сайт проекта адаптивный и удобен для просмотра со всех современных устройств.
+The website is designed to be responsive and user-friendly, ensuring seamless viewing across all modern devices.
 
-Проект написан в HTML и CSS (с подключением файла normalize.css), сторонние библиотеки не применялись.
+The project is developed using HTML and CSS, with the inclusion of the normalize.css file; no third-party libraries were utilized.
 
-Посмотреть на сайт можно [тут.](https://otec-s.github.io/russian-travel/)
+You can view the website [here](https://otec-s.github.io/russian-travel/).
 
-Удачного чтения!
+Enjoy exploring!
