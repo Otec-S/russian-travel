@@ -1,4 +1,4 @@
-# Project: Traveling in Russia
+# Traveling in Russia
 
 The project aims to attract tourists to explore Russia as a vacation destination. The website showcases interesting places to visit, even those that many have heard of but never had the opportunity to experience firsthand.
 
